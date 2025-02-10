@@ -1,6 +1,6 @@
 # CAPSTONE-PROJECT-Play-Store-App-Review-Analysis-
 <p align="center"> 
-<img src="GIF/google play.gif" alt="Animated gif" height="282px">
+<img src="https://i.pinimg.com/originals/60/a8/b5/60a8b504a19449659ac8e41d3fb807a4.gif" alt="Animated gif" height="282px">
 </p>
 
 ## Google Play Store Review Analysis
