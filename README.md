@@ -1,9 +1,7 @@
 # CAPSTONE-PROJECT-Play-Store-App-Review-Analysis-
-
 <p align="center"> 
 <img src="GIF/google play.gif" alt="Animated gif" height="282px">
 </p>
-
 ## Google Play Store Review Analysis
 App ratings and reviews are among the most crucial elements that show a mobile app's success and popularity. Play Store apps with many high star ratings and positive reviews influence the search results and increases the chance of being featured and promoted in the app's target category (e.g.,games,music,fitness,etc).The more active you are in fixing the negative reviews,the more likely app users will keep your app installed.
 
